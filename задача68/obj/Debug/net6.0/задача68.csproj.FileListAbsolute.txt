@@ -1,0 +1,15 @@
+D:\Рекурсия\Задача 68\задача68\bin\Debug\net6.0\задача68.exe
+D:\Рекурсия\Задача 68\задача68\bin\Debug\net6.0\задача68.deps.json
+D:\Рекурсия\Задача 68\задача68\bin\Debug\net6.0\задача68.runtimeconfig.json
+D:\Рекурсия\Задача 68\задача68\bin\Debug\net6.0\задача68.dll
+D:\Рекурсия\Задача 68\задача68\bin\Debug\net6.0\задача68.pdb
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.csproj.AssemblyReference.cache
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.AssemblyInfoInputs.cache
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.AssemblyInfo.cs
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.csproj.CoreCompileInputs.cache
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.dll
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\refint\задача68.dll
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.pdb
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\задача68.genruntimeconfig.cache
+D:\Рекурсия\Задача 68\задача68\obj\Debug\net6.0\ref\задача68.dll
